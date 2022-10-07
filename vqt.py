@@ -23,4 +23,4 @@ plt.show()
 
 
 ################  save  #################
-scipy.io.savemat(r'C:\Users\kk260\Desktop\ProjectItou2020\Script\vq.mat',{'vq':D})
+scipy.io.savemat(r'C:\Users\vq.mat',{'vq':D})
